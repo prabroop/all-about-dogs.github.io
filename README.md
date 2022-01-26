@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Spin-off of "Project: Travel webpage"</title>
+        
     </head>prabroop 8A
     <body> 
     
